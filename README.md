@@ -1,4 +1,4 @@
-### Trees Exercises ###
+# Trees Exercises #
 
 ### **sumValues**
 
